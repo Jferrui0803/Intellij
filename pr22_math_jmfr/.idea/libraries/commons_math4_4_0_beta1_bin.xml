@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="commons-math4-4.0-beta1-bin">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/commons-math4-4.0-beta1-bin.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/commons-math4-4.0-beta1-bin.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/commons-math4-4.0-beta1-bin.zip!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/commons-math4-4.0-beta1-bin.zip!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/commons-math4-4.0-beta1-bin.zip!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Downloads/commons-math4-4.0-beta1-bin.zip!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/commons-math4-4.0-beta1-bin.zip!/" recursive="false" type="SOURCES" />
+  </library>
+</component>

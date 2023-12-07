@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Instalacion Intellij:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Instalacion_Intellij_jar</output-path>
+    <root id="archive" name="Instalacion Intellij.jar">
+      <element id="module-output" name="Instalacion Intellij" />
+    </root>
+  </artifact>
+</component>
